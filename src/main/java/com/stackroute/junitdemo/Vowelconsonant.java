@@ -22,8 +22,6 @@ public class Vowelconsonant
                 str=str+"consonant"+" ";
 
             }
-
-
         }
        return str.trim();
     }

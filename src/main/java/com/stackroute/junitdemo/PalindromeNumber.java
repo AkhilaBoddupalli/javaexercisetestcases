@@ -3,7 +3,7 @@ package com.stackroute.junitdemo;
 public class PalindromeNumber {
     public String checkPalindromeNumber(int number)
     {
-        int n1, sum = 0, temp, rem, rem2, sum2 = 0;
+        int n1, sum = 0, rem, rem2, sum2 = 0;
         n1 = number;
         String result;
         while (n1 != 0)
